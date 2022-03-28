@@ -3,8 +3,6 @@
 - 🌱 I’m currently working on **Statistics** and **Data Science** with focus in **Regression Models (GLM)** and 
    **Classification Models**  
 - 👀 I’m interested in **Statistics**, **Data Engineering** and **Data Science** 
-- 📫 How to reach me ...
-
 ##
 
 <div align="center">
